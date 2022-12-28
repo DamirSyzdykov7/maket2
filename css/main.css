@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1E252B;
+}
+.shapka {
+}
+
+
+
+.shapka ul {
+    list-style: none;
+    display: inline;
+    text-align: center;
+    display: inline;
+    margin-left: 508px;
+}
+
+.predshapka {
+    margin-top: 38px;
+}
+
+.shapka li {
+    display: inline;
+    padding: 10px;
+    font-family: Poppins;
+    color: rgba(255, 255, 255, 0.55);
+
+}
+
+.login {
+    margin-left: 193px;
+}
+
+.signup {
+    width: 118px;
+    height: 48px;
+    background-color: #FF6E30;
+    border-radius: 8px;
+}
+
+.svg1 {
+    margin-left: 5px;
+}
+
+
+
+
